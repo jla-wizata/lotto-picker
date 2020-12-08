@@ -48,3 +48,6 @@ for i in range(2,7):
     print('Combinaison n° ' + str(i) + ' : ' + str(comb))
 
 print('Top 10 : ' + str(top10))
+
+
+## add test git push
